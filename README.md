@@ -35,9 +35,6 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=linux" />
   </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=matlab" />
-  </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
@@ -49,9 +46,6 @@
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://www.qt.io/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=qt" />
   </a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=sqlite" />
