@@ -60,11 +60,13 @@
       <img src="https://skillicons.dev/icons?i=tailwind" />
 </p>
 
+<h3 align="left">My Stats :</h3>
 
 ![](https://github-readme-stats.vercel.app/api?username=son-of-mountain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=son-of-mountain&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=son-of-mountain&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="left">
+<img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=son-of-mountain&theme=github_dark" alt="mouaad elhansali" />
+</p>
 
-
-[![](https://visitcount.itsvg.in/api?id=Medamine-Bahassou&icon=4&color=1)](https://visitcount.itsvg.in)
