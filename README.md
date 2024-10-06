@@ -58,6 +58,10 @@
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=spring" />
+  </a>
 </p>
 
 <h3 align="left">My Stats :</h3>
