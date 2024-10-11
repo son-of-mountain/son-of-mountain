@@ -62,6 +62,12 @@
   <a href="https://spring.io/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=spring" />
   </a>
+    <a href="https://angular.dev/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=angular" />
+  </a>
+    <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=tensorflow" />
+  </a>
 </p>
 
 <h3 align="left">My Stats :</h3>
