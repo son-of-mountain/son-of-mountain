@@ -68,12 +68,6 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
-    <a href="https://www.numpy.org/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=numpy" />
-  </a>
-    <a href="https://www.scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://skillicons.dev/icons?i=sickit-learn" />
-  </a>
 </p>
 
 <h3 align="left">My Stats :</h3>
