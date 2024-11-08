@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Mouaad Elhansali</h1>
-<h3>Software and AI Engineering Student </h3>
+<h3>Software and AI Engineering Student at FST of Tangier</h3>
 
 <a href="https://www.linkedin.com/in/mouaad-elhansali/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
