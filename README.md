@@ -68,6 +68,9 @@
     <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
       <img src="https://skillicons.dev/icons?i=tensorflow" />
   </a>
+  <a href="https://www.ubuntu.com/" target="_blank" rel="noreferrer">
+      <img src="https://skillicons.dev/icons?i=ubuntu" />
+  </a>
 </p>
 
 <h3 align="left">My Stats :</h3>
